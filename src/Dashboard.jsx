@@ -71,7 +71,7 @@ const Dashboard = () => {
         </header>
 
         <div className={styles.countdown}>
-          <div className={styles.countdown}>
+          <div className={styles.countMain}>
             <div className={styles.timeBlock}>
               <span className={styles.value}>6</span>
               <span className={styles.unit}>DAYS</span>
